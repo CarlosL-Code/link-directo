@@ -26,14 +26,14 @@ function App() {
           icon={<Users size={24} />}
           title="Gestión de Alumnos (Gimnasios)"
           subtitle="Demo del sistema CRM para trainers"
-          url="#"
+          url="https://impulso-coach-crm-demo.vercel.app/#dashboard"
         />
         
         <LinkButton 
           icon={<Ticket size={24} />}
           title="Gestor de Tickets"
           subtitle="Demo del sistema para soporte corporativo"
-          url="#"
+          url="https://levanta-tu-ticket.vercel.app/"
         />
       </div>
 

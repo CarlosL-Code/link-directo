@@ -13,11 +13,11 @@ const ContentGallery = () => {
           <span>Edición de Video</span>
         </a>
         
-        <a href="#" className="social-card glass-panel" style={{ animationFillMode: 'both', animationDelay: '0.7s' }}>
+        <a href="https://www.instagram.com/carloslozano.dev" target="_blank" rel="noopener noreferrer" className="social-card glass-panel" style={{ animationFillMode: 'both', animationDelay: '0.7s' }}>
           <div className="icon-wrapper">
             <Smartphone size={32} />
           </div>
-          <span>Gym Content</span>
+          <span>Mi Instagram</span>
         </a>
       </div>
     </div>
